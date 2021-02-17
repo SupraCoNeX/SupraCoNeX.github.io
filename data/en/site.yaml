@@ -10,7 +10,7 @@ customMenus:
 - name: Code
   url: https://github.com/SupraCoNeX
 - name : Publications
-  url: /post/pub
+  url: /publications
 - name: About
   url: /about
     #- name: Docs

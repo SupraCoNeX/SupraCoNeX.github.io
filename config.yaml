@@ -68,7 +68,7 @@ params:
     favicon: /images/site/supraconex_logo.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/SupraCoNeX
+  gitRepo: https://github.com/SupraCoNeX/SupraCoNeX.github.io
   gitBranch: source
 
   # specify whether you want to write some blog posts or not
