@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: "Publications"
 date: 2017-11-08T16:56:15+02:00
 draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores porro voluptas esse natus nemo aperiam asperiores velit neque, magni molestiae!
