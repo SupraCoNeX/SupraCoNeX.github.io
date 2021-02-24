@@ -49,10 +49,8 @@
   display: grid;
   grid-template-columns: auto auto auto;
   grid-gap: 10px;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   padding: 20px;
-  justify-content: center;
-  align-content: center;
 }
 
 .grid-container-about > div {
@@ -64,8 +62,19 @@
 
 .item-left {
   grid-column: 1 / span 2;
+  background-color: #f7f7f7;
+  padding: 20px;
 }
 
 .item-right {
   grid-column: 2 / span 2;
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+
+.item {
+  justify-content: center;
+  align-content: center;
+  align-self: center;
+  justify-self: center;
 }
