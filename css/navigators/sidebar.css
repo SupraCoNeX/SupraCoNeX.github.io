@@ -24,6 +24,7 @@
 }
 
 .sidebar-tree {
+  margin-top: 1.5em;
   padding-left: 1rem;
   position: relative;
   width: -webkit-max-content;
