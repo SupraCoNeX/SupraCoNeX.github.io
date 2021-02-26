@@ -1,0 +1,39 @@
+{{ define "header" }}
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Title }}{{ end }}" />
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css"
+/>
+<link rel="stylesheet" href="{{ "/css/layouts/single.css" | relURL }}"/>
+<link rel="stylesheet" href="{{ "/css/navigators/sidebar.css" | relURL }}">
+{{ end }}
+
+{{ define "navbar" }}
+    {{ partial "navigators/navbar-2.html" . }}
+{{ end }}
+
+{{ define "content" }}
+<section class="content-section" id="content-section">
+  <div class="content">
+    <div class="container p-0 read-area">
+      <!--Hero Area-->
+      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url({{ strings.TrimSuffix "/" site.BaseURL }}{{ partial "helpers/get-hero.html" . }});'>
+      </div>
+        <div class="title">
+          <h1>{{ .Page.Title }}</h1>
+        </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "scripts" }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
+<script src="{{ "/js/single.js" | relURL }}"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+{{ if .Params.math }}
+    {{ partial "math.html" . }}
+{{ end }}
+{{ end }}
