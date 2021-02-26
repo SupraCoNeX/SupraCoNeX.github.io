@@ -1,5 +1,4 @@
-baseURL: 192.168.2.110
-#baseURL: https://supraconex.github.io/
+baseURL: https://supraconex.github.io/
 languageCode: en-us
 defaultContentLanguage: en
 title: "SupraCoNeX"
