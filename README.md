@@ -20,6 +20,11 @@ You can modify the newly created file now. First change the
 In the `mab` example this would be `parent: mab-news`. <br>
 This will sort the new post in the according section in the overview.
 
+After adding some content you can run hugo to check, if your article
+meets your expectations. Therefore you need to set `draft: false` and run 
+`hugo serve` or run `hugo serve -D` if you want to keep the draft status
+of your article
+
 
 To add one image to the top of all posts of a topic just place a hero.svg in
 the root of that topic.
