@@ -7,7 +7,7 @@ draft: false
 
 <div class="grid-container-about">
   <div class="item"><a href="https://www.hs-nordhausen.de/en/"><img src="/images/logo-hsn.svg" alt="logo hochschule nordhausen" /></a></div>
-  <div class="item-right"><h2>Hochschule Nordhausen (HSN)</h2><br>The Hochschule Nordhausen (HSN) is a young, modern university of applied sciences. Since being founded in 1997 and admitting its first students in 1998, the university has developed into a future-oriented educational establishment: State-of-the-art technologies, professors and lecturers with practical experience plus modern degree courses which meet the requirements of the future labour market guarantee a high standard of scientific training.  </div>
+  <div class="item-right"><h2>Hochschule Nordhausen (HSN)</h2><br>The Hochschule Nordhausen  - University of Applied Sciences (HSN) is a young, modern university of applied sciences. Since being founded in 1997 and admitting its first students in 1998, the university has developed into a future-oriented educational establishment: State-of-the-art technologies, professors and lecturers with practical experience plus modern degree courses which meet the requirements of the future labour market guarantee a high standard of scientific training.  </div>
   <div class="item-left"><h2>Technische Universität Braunschweig</h2><br>
   Technische Universität Braunschweig is a technical university with a rich tradition and a proven research and teaching profile. It has:
   <ul>
