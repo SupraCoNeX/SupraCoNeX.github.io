@@ -1,0 +1,147 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/background.jpg"
+  slider_item:
+    # slider item loop
+    - title : "Make WiFi Great Again"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Get it now"
+        link : "https://github.com/SupraCoNeX"
+
+    # slider item loop
+    - title : "Dump 5G Networks"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Get it now!"
+        link : "https://github.com/SupraCoNeX"
+
+    # slider item loop
+    - title : "More cunning headlines"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Get it now!"
+        link : "https://github.com/SupraCoNeX"
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/drive_panel.jpg"    # banner/banner-feature.png"
+  feature_item:
+    # feature item loop
+    - name : "Deployments"
+      icon : "ti-rss-alt" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+
+    # feature item loop
+    - name : "Data Collection"
+      icon : "ti-server" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+
+    # feature item loop
+    - name : "Our Achievements"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+
+    # feature item loop
+    #- name : "Admission Now"
+    #  icon : "ti-write" # icon pack : https://themify.me/themify-icons
+    #  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "Our Mission"
+  image : "images/banner/smart_city.jpg"
+  content : "Test Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
+
+
+  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  button:
+    enable : true
+    label : "Learn more"
+    link : "about"
+
+
+############################# Course ################################
+#course:
+#  enable : true
+#title : "Our Mission"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : "We got your attention?"
+  title : "Start deploying today!"
+  button:
+    enable : true
+    label : "Get it now!"
+    link : "https://github.com/SupraCoNeX"
+
+
+######################## Success story #############################
+#success_story:
+#  enable : false
+#  bg_image : "images/backgrounds/success-story.jpg"
+#  title : "Success Stories"
+#  content : "Test Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
+#
+#
+#  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+#  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+#  # video link
+#  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+
+
+############################# event ################################
+event:
+  enable : false
+  title : "Upcoming Events"
+  # event item comes from "content/**/event" folder.
+
+
+########################### funfacts ############################
+funfacts:
+  enable : false
+  funfact_item:
+    # funfact item loop
+    - name : "TEACHERS"
+      count : "60"
+
+    # funfact item loop
+    - name : "COURSES"
+      count : "50"
+
+    # funfact item loop
+    - name : "STUDENTS"
+      count : "1000"
+
+    # funfact item loop
+    - name : "SATISFIED CLIENT"
+      count : "1400"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "Latest News"
+  # blog item comes from "content/**/blog" folder.
