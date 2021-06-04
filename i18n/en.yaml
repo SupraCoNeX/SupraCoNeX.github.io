@@ -58,8 +58,8 @@
 - id: fee
   translation: fee
 
-- id: teacher
-  translation: teacher
+- id: partner
+  translation: partner
 
 - id: location
   translation: location
@@ -75,7 +75,7 @@
 
 - id: join
   translation: Join
-  
+
 - id: enter_email
   translation: Enter your email…
 
@@ -103,8 +103,8 @@
 - id: interest
   translation: SUMMARY OF ACTIVITIES/INTERESTS
 
-- id: our_teachers
-  translation: Our Teachers
+- id: our_partners
+  translation: Our Partners
 
 - id: download
   translation: Download
