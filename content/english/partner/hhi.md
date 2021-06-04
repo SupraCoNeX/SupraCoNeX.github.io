@@ -51,7 +51,7 @@ interest: ["Computer Networking","Computer Security","Human Computer Interfacing
 #    link : "#"
 
 # type
-type: "teacher"
+type: "partner"
 ---
 
 ### About Me

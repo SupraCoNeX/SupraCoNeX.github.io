@@ -1,14 +1,14 @@
 ---
-title: "Devid Luis"
+title: "NewMedia-Net GmbH"
 draft: false
 # page title background image
-bg_image: "images/banner/background.jpg"
+bg_image: "images/banner/background.jp"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # teacher portrait
-image: "images/logos/logo_230x78-middle.png"
+image: "images/logos/logo-gross.jpg"
 # course
-course: "Humanities"
+course: "Computer Science"
 # biography
 bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
@@ -51,7 +51,7 @@ contact:
     link : "#"
 
 # type
-type: "teacher"
+type: "partner"
 ---
 
 ### About Me

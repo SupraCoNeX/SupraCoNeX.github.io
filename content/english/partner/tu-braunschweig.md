@@ -1,14 +1,14 @@
 ---
-title: "Clark Malik"
+title: "Technische Universität Braunschweig"
 draft: false
 # page title background image
 bg_image: "images/banner/background.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # teacher portrait
-image: "images/logos/logo_mpi_430.png"
+image: "images/logos/tu_braunschweig_logo.svg"
 # course
-course: "Computer Science"
+course: "Photography"
 # biography
 bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
@@ -51,7 +51,7 @@ contact:
     link : "#"
 
 # type
-type: "teacher"
+type: "partner"
 ---
 
 ### About Me

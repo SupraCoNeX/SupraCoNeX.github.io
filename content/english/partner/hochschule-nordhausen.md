@@ -1,5 +1,5 @@
 ---
-title: "Duis Rio"
+title: "Hochschule Nordhausen"
 draft: false
 # page title background image
 bg_image: "images/banner/background.jpg"
@@ -51,7 +51,7 @@ contact:
     link : "#"
 
 # type
-type: "teacher"
+type: "partner"
 ---
 
 ### About Me
