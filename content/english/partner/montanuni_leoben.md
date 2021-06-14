@@ -1,18 +1,18 @@
 ---
-title: "BISDN GmbH"
+title: "Montan University Leoben"
 draft: false
 # page title background image
-bg_image: "images/banner/background.jpg"
+bg_image: "images/banner/background.jp"
 # meta description
 description : ""
 # teacher portrait
-image: "images/logos/logo_230x78-middle.png"
+image: "images/logos/motanuni.jpg"
 # course
 course: ""
 # biography
-bio: "BISDN GmbH was founded in Berlin in 2012 and today develops hardware-accelerated network functions on standard hardware there. The core of the development is a free operating system for so-called whitebox switches."
+bio: "NewMedia-NET GmbH (NMN) has been developing Linux-based operating systems for embedded routers for years, especially for embedded systems for WLAN communication. The development focus is on GNU/Linux drivers for various IEEE 802.11ax chips, for which NMN closely cooperates with manufacturers of WLAN chipsets."
 # interest
-# interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: [""]
 # contact info
 #contact:
 #  # contact item loop
@@ -54,13 +54,15 @@ bio: "BISDN GmbH was founded in Berlin in 2012 and today develops hardware-accel
 type: "partner"
 ---
 
-BISDN is currently one of 3 companies working closely with Deutsche Telekom in
-the TEAC incubator program of the Telecom Infrastructure Project (TIP). Further
-cooperations exist with Intel and HPE. As a result, prototypes for e.g.
-BRAS/BNG, IPSec gateways, or WiFi cloud solutions have been developed in the
-last years, which show the potential of software-based solutions, if their
-functionality is suitably supported by external ASICs or FPGAs. Since last
-year, these prototypes have been successively transferred into products. BISDN
-was and is active in a number of national (SENDATE, SESAM) and EU projects
-(FP7 UNIFY, H2020 5GEx).
+NMN is actively involved in the development of the open source Linux mac802.11
+subsystem with it's employee Felix Fietkau , who is the maintainer of the
+de-facto standard WLAN rate control algorithm "Minstrel_HT" in the Linux
+kernel, which is the basis of today's WLAN routers, as well as the open
+source WLAN driver "mt76" for chipsets of the MT76xx series from Mediatek.
+
+Furthermore, NMN is involved in the development of the WLAN driver ath9k,
+which was created in intensive cooperation with Atheros (today Qualcomm Atheros).
+In addition to system and driver development, solutions for client management
+via multiple access points as well as solutions for remote management, among
+others for Nokia-Siemens, are also developed.
 

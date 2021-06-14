@@ -4,61 +4,65 @@ draft: false
 # page title background image
 bg_image: "images/banner/background.jp"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : ""
 # teacher portrait
 image: "images/logos/logo-gross.jpg"
 # course
-course: "Computer Science"
+course: ""
 # biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
+bio: "NewMedia-NET GmbH (NMN) has been developing Linux-based operating systems for embedded routers for years, especially for embedded systems for WLAN communication. The development focus is on GNU/Linux drivers for various IEEE 802.11ax chips, for which NMN closely cooperates with manufacturers of WLAN chipsets."
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: [""]
 # contact info
-contact:
-  # contact item loop
-  - name : "clarkmalik@email.com"
-    icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:clarkmalik@email.com"
-
-  # contact item loop
-  - name : "+12 034 5876"
-    icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
-
-  # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-skype" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "clarkmalik.com"
-    icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "1313 Boulevard Cremazie,Quebec"
-    icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
-    link : "#"
+#contact:
+#  # contact item loop
+#  - name : "clarkmalik@email.com"
+#    icon : "ti-email" # icon pack : https://themify.me/themify-icons
+#    link : "mailto:clarkmalik@email.com"
+#
+#  # contact item loop
+#  - name : "+12 034 5876"
+#    icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
+#    link : "tel:+120345876"
+#
+#  # contact item loop
+#  - name : "Clark Malik"
+#    icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+#    link : "#"
+#
+#  # contact item loop
+#  - name : "Clark Malik"
+#    icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+#    link : "#"
+#
+#  # contact item loop
+#  - name : "Clark Malik"
+#    icon : "ti-skype" # icon pack : https://themify.me/themify-icons
+#    link : "#"
+#
+#  # contact item loop
+#  - name : "clarkmalik.com"
+#    icon : "ti-world" # icon pack : https://themify.me/themify-icons
+#    link : "#"
+#
+#  # contact item loop
+#  - name : "1313 Boulevard Cremazie,Quebec"
+#    icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
+#    link : "#"
 
 # type
 type: "partner"
 ---
 
-### About Me
+NMN is actively involved in the development of the open source Linux mac802.11
+subsystem with it's employee Felix Fietkau , who is the maintainer of the
+de-facto standard WLAN rate control algorithm "Minstrel_HT" in the Linux
+kernel, which is the basis of today's WLAN routers, as well as the open
+source WLAN driver "mt76" for chipsets of the MT76xx series from Mediatek.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
+Furthermore, NMN is involved in the development of the WLAN driver ath9k,
+which was created in intensive cooperation with Atheros (today Qualcomm Atheros).
+In addition to system and driver development, solutions for client management
+via multiple access points as well as solutions for remote management, among
+others for Nokia-Siemens, are also developed.
 
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.

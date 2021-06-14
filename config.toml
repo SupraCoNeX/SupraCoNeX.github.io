@@ -135,7 +135,7 @@ hasChildren = true
   url = "research"
 
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Blog"
 url = "blog"
 weight = 3
 
@@ -152,10 +152,10 @@ weight = 5
 # footer menu
 
 [[Languages.en.menu.footer]]
-name = "partner"
+name = "Partner"
 url = "partner"
 
 [[Languages.en.menu.footer]]
-name = "research"
+name = "Research"
 url = "research"
 
