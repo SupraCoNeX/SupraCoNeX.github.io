@@ -6,7 +6,7 @@ bg_image: "images/banner/background.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: "images/logos/logo_mpi_430.png"
+image: "images/logos/mpi-resized.png"
 # course
 course: ""
 # biography

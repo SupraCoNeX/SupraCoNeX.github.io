@@ -15,7 +15,7 @@ slider:
         link : "https://github.com/SupraCoNeX"
 
     # slider item loop
-    - title : "Dump 5G Networks"
+    - title : "Better Network Performance"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
       animation_in : "left"
       animation_out : "right"
@@ -68,11 +68,14 @@ about:
   enable : true
   title : "Our Mission"
   image : "images/banner/smart_city.jpg"
-  content : "Test Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
-  button:
+  content : "The SupraCoNeX research project aims to develop new sequential
+    reinforcement learning algorithms for optimal decision making for resource
+    management in wireless radio networks. The theoretical algorithm development
+    will take into account the limitations and constraints of current network
+    systems, and the practical applicability and potential performance gains
+    will be analyzed and prototypically evaluated in today's IEEE 802.11 network
+    systems (WLAN)."
+button:
     enable : true
     label : "Learn more"
     link : "about"

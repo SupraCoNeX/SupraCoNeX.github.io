@@ -6,7 +6,7 @@ bg_image: "images/banner/background.jp"
 # meta description
 description : ""
 # teacher portrait
-image: "images/logos/motanuni.jpg"
+image: "images/logos/motanuni-resized.jpg"
 # course
 course: ""
 # biography

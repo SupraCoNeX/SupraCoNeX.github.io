@@ -6,7 +6,7 @@ bg_image: "images/banner/background.jp"
 # meta description
 description : ""
 # teacher portrait
-image: "images/logos/logo-gross.jpg"
+image: "images/logos/new_media-resized.png"
 # course
 course: ""
 # biography

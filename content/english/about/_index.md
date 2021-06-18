@@ -11,13 +11,11 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 
 ## ABOUT OUR JOURNY
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+The SupraCoNeX research project enables application-specific, AI-based resource
+allocation and efficient management of today's wireless 802.11-based (WLAN)
+networks in home, enterprise and provider contexts. In particular, statistical
+and adversarial multi-armed-bandit algorithms will be developed for diverse
+application areas in wireless networks with specific communication quality
+requirements in terms of throughput, latency, security, and robustness, and
+evaluated in production communication networks with real Internet traffic.
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!

@@ -6,7 +6,7 @@ bg_image: "images/banner/background.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: "images/logos/logo-hsn.svg"
+image: "images/logos/hsn-resized.png"
 # course
 course: ""
 # biography

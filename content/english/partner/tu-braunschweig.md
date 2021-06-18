@@ -6,7 +6,7 @@ bg_image: "images/banner/background.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: "images/logos/tu_braunschweig_logo.svg"
+image: "images/logos/tu_braunschweig_logo-resized.png"
 # course
 course: ""
 # biography
