@@ -1,8 +1,10 @@
 ---
-title: "Our Courses"
-draft: false
+title: "Published Research"
+draft: true
 # page title background image
-bg_image: "images/banner/background.jpg"
+bg_image: ""
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "As part of the SupraCoNeX project the following publications were
+               released. As this project combines multiple research areas the
+               output is separated in different categories"
 ---

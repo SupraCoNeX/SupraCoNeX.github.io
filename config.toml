@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org"
+baseURL = "https://supraconex.github.io"
 title = "SupraCoNeX"
 theme = "educenter-hugo"
 # post pagination
@@ -47,7 +47,7 @@ author = "Themefisher"
 # contact info
 #address = "9567 Turner Trace Apt. BC C3G8A4"
 #mobile = "+211234565523"
-email = "info@educenter.com"
+email = "supraconex@hhi.fraunhofer.de"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs

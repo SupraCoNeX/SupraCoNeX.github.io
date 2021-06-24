@@ -2,9 +2,9 @@
 title: "About Us"
 draft: false
 # page title background image
-bg_image: "images/banner/background.jpg"
+bg_image: "images/banner/background_free.jpg"
 # about image
-image: "images/about/about-page.jpg"
+image: "images/about/connected_world_1920.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 ---

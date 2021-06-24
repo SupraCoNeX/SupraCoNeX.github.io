@@ -2,7 +2,7 @@
 title: "Heinrich Hertz Institute"
 draft: false
 # page title background image
-bg_image: "images/banner/background.jpg"
+bg_image: "images/banner/background_free.jpg"
 # meta description
 description : ""
 # teacher portrait

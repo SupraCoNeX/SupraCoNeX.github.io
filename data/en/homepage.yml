@@ -1,7 +1,7 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/background.jpg"
+  bg_image : "images/banner/background_free.jpg"
   slider_item:
     # slider item loop
     - title : "Make WiFi Great Again"
@@ -40,7 +40,7 @@ slider:
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/drive_panel.jpg"    # banner/banner-feature.png"
+  image : "images/banner/drive_panel.jpg"
   feature_item:
     # feature item loop
     - name : "Deployments"
@@ -67,7 +67,7 @@ banner_feature:
 about:
   enable : true
   title : "Our Mission"
-  image : "images/banner/smart_city.jpg"
+  image : "images/banner/smart-city_free_1920.jpg"
   content : "The SupraCoNeX research project aims to develop new sequential
     reinforcement learning algorithms for optimal decision making for resource
     management in wireless radio networks. The theoretical algorithm development
@@ -101,7 +101,7 @@ cta:
 ######################## Success story #############################
 #success_story:
 #  enable : false
-#  bg_image : "images/backgrounds/success-story.jpg"
+#  bg_image : ""
 #  title : "Success Stories"
 #  content : "Test Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
 #
