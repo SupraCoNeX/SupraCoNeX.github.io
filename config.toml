@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://supraconex.github.io"
+baseURL = "/"
 title = "SupraCoNeX"
 theme = "educenter-hugo"
 # post pagination
@@ -126,7 +126,7 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Pages"
-  name = "partner"
+  name = "Partner"
   url = "partner"
 
   [[Languages.en.menu.main]]
