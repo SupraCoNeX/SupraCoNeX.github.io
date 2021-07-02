@@ -1,6 +1,6 @@
 ---
 title: "Latest News"
-draft: true
+draft: false
 # page title background image
 bg_image: "images/banner/background_free.jpg"
 # meta description

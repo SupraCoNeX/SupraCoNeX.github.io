@@ -1,7 +1,7 @@
 ---
 #title: "Elegant Light Box Paper Cut Dioramas"
 #date: 2019-07-06T15:27:17+06:00
-#draft: true
+draft: true
 # page title background image
 #bg_image: "images/banner/background_free.jpg"
 # meta description

@@ -1,6 +1,6 @@
 ---
 title: "Published Research"
-draft: true
+draft: false
 # page title background image
 bg_image: ""
 # meta description
