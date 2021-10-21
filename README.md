@@ -1,5 +1,11 @@
 # SupraCoNeX Website
 
+This repository hosts the SupraCoNeX websites content. It's build automaticly from the files in the source branch and is rebuild with Hugo and GitHub actions on a push to it.
+The Hugo output is pushed to the main branch.
+
+To create a new blog post manually you can create a new `md` file in `content/en/blog/<your-title>.md`. The preferred way would be to use Hugo for it(md-link), as it applies the template from `archetypes` to the newly created article which you would need to add manually.
+
+
 ## Running the setup locally
 
 ### Getting Hugo
